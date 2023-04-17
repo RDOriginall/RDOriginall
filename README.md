@@ -12,7 +12,7 @@
   <a href="https://RezaDabaghiAsl@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/RDOriginall?t=tAQclbgGinvZE7qJdPrEJw&s=35">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
