@@ -2,6 +2,8 @@
  
  <h3 align="center">
   Hi there 👋
+  <h5 align="left">I'm Reza</h5>
+  <h5 align="left">I'm becoming a Python developer. Currently I'm learning django for web development and I'm also interested in AI and machine learning.</h5>
   <hr>
  </h3>
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -16,9 +18,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
- <h5 align="left">I'm Reza</h5>
-  
- <h5 align="left">I'm becoming a Python developer. Currently I'm learning django for web development and I'm also interested in AI and machine learning.</h5>
+ <hr>
 </div>
 
 
