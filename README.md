@@ -3,7 +3,8 @@
 ##### I'm Reza
 
 ##### I'm becoming a Python developer. Currently I'm learning django for web development and I'm also interested in AI and machine learning.
-<div id="header" align="center">
+
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
