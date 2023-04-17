@@ -2,6 +2,7 @@
  
  <h3 align="center">
   Hi there 👋
+  <hr>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  </h3>
  <h5 align="left">I'm Reza</h5>
