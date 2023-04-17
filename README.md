@@ -1,9 +1,8 @@
-### Hi there 👋
-
 <div id="header" align="center">
- <h4 align="left">I'm Reza</h4>
+ <h3 align="center" color="Darkred" >Hi there 👋</h3>
+ <h5 align="center">I'm Reza</h5>
   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- <h4 align="left">I'm becoming a Python developer. Currently I'm learning django for web development and I'm also interested in AI and machine learning.</h4>
+ <h5 align="left">I'm becoming a Python developer. Currently I'm learning django for web development and I'm also interested in AI and machine learning.</h5>
 </div>
 
 
